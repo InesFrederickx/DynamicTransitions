@@ -1,29 +1,5 @@
-# transitions
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+**Sources**
+https://www.mytutor.co.uk/answers/27492/A-Level/Biology/Describe-the-four-stages-of-mitosis/
+https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/a/phases-of-mitosis
+https://www.youtube.com/watch?v=X7IBa7vZjmo&t=134s
+https://medium.com/@idorenyinudoh10/create-a-text-reveal-animation-with-gsap-21cc8b425030

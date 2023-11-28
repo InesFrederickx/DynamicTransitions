@@ -1,4 +1,4 @@
-# DynamicTransitions
+# Dynamic Transitions
 
 This small one-pager about the process of mitosis start off with a preloader. It is a ball that bounces up and down that is self animated. When the page has loaded you can find the 4 phases of mitosis.
 When hovered over the images, they have a zoom in effect.
